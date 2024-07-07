@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 以下是一个详细的 Pelican 入门教程，帮助您从安装到创建并发布一个静态网站。
 
 ### 1. 安装 Pelican 和 相关依赖
@@ -129,3 +130,6 @@ DEFAULT_PAGINATION = 10
 - [Markdown 基础教程](https://www.markdownguide.org/basic-syntax/)
 
 通过以上步骤，您应该能够创建并发布一个简单的 Pelican 静态网站。如果有任何问题或需要进一步的帮助，请随时提问！
+=======
+# walog.github.io
+>>>>>>> f9d0f4178701df70853ca28eb4135e3f922546cd
